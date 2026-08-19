@@ -1,4 +1,4 @@
-package Leetcode;
+package Strings.Leetcode;
 
 public class Problem12 {
 
